@@ -12,8 +12,8 @@ Built with **JavaScript** and **Phaser 2**.
 ## 💡 Future ideas
 - Add more levels  
 - Improve graphics
-- 
 ---
 
 Made by **Maria Petrova**  
 [github.com/mgpetrova6210](https://github.com/mgpetrova6210)
+
